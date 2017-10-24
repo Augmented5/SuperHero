@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Router4" size="15.000000 9.266666" />
+    <ImageTarget name="Router3" size="15.000000 5.980000" />
+    <ImageTarget name="Router2" size="15.000000 11.250000" />
+    <ImageTarget name="Router1" size="15.000000 13.190349" />
+    <ImageTarget name="VZMarker" size="15.000000 9.504673" />
+    <ImageTarget name="10rs_star_f" size="15.000000 7.055503" />
+  </Tracking>
+</QCARConfig>
